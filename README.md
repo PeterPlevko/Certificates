@@ -9,3 +9,4 @@
 ![Lord.jpg](./Lord.jpg)
 ![M001_proof_of_completion](./M001_proof_of_completion.jpg)
 ![M100_proof_of_completion](./M100_proof_of_completion.jpg)
+![CliftonStrengths](./CliftonStrengths.pdf)
